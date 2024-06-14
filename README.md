@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KeeperTaz
+- 👋 Hi, I’m @KeeperTaz (Paul)
 - 👀 I’m interested in motorcycles, computers, soccer
 - 🌱 I’m currently learning Python, PMP
 - 💞️ I’m looking to collaborate on anything and everything
